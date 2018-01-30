@@ -1,0 +1,220 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru-ru" lang="ru-ru">
+<head>
+	<title>Семья -  Страница 3</title>
+	<meta name="description" content="Когда создать семью – каждый решает сам для себя. А для того, чтобы сделать свою семью крепче орешка нужно владеть достаточным количеством информации. Она есть у нас, милости просим. Много познавательного специально для вас, молодые семьи!"/>
+	<meta name="keywords" content="семья, крепкая, молодая, любовь, дети, отношения, родители"/>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	<meta name="rp26e2d8ca19d44a96973a4648817f86a3" content="5a313aed874992d5ccdc590cd5f30313" />
+	<link href="/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+	<link rel="stylesheet" href="/templates/css/style5.css" type="text/css"/>
+	<link rel="stylesheet" href="/templates/css/lightbox.css" type="text/css"/>
+	<script type="text/javascript" src="/templates/js/jquery-1.8.2.min.js"></script>
+	<script type="text/javascript" src="/templates/js/main.js"></script>
+	<script type="text/javascript" src="/templates/js/lightbox.js"></script>
+</head>
+<body>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-39233622-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script><!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+(function (d, w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter20546329 = new Ya.Metrika({id:20546329,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true});
+        } catch(e) { }
+    });
+
+    var n = d.getElementsByTagName("script")[0],
+        s = d.createElement("script"),
+        f = function () { n.parentNode.insertBefore(s, n); };
+    s.type = "text/javascript";
+    s.async = true;
+    s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+    if (w.opera == "[object Opera]") {
+        d.addEventListener("DOMContentLoaded", f, false);
+    } else { f(); }
+})(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/20546329" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter --><script type="text/javascript">
+<!--
+$(document).ready(function(){
+	$('#f_email').text('det'+'i'+'m'+'a'+'m@'+'ya.'+'ru');
+});
+//-->
+</script>
+
+<div id="wrapper1">
+<div id="header">
+	<div class="logo">
+		<img src="/templates/images/logo.jpg" width="900" height="100" alt="logo" usemap="#logo" />
+		<map id="logo" name="logo"><area shape="rect" coords="500,50,775,100" href="/" alt="DetiMam.ru" title="DetiMam.ru"></map>
+	</div>
+	<div id="menu1">
+		<img src="/templates/images/menu-left.png" alt=""/>
+		<div id="tabs">
+<ul class="level1"><li><a href="/"><span>Дети, семья</span></a></li><li><a href="/map.html"><span>Карта сайта</span></a></li><li><a href="/contacts.html"><span>Контакты</span></a></li></ul>		</div>
+		<img src="/templates/images/menu-right.png" style="margin-top:1px" alt=""/>
+	</div>
+</div><!--#header-->
+<br clear="left"/>
+<div id="wrapper2">
+
+<div id="section"><img src="/templates/images/section/semja.jpg" class="section" alt="semja" title="Семья" /><p><b>Семья</b> – самое драгоценное в мире слово. Для того, чтобы семья была крепкой и главным чувством в ней была любовь, нужно быть истинным хранителем очага. В полноценной семье обязательно должны быть дети. Дети часто играют роль связующего звена между родителями и только укрепляют их отношения. Помните, что построение семьи – это неимоверный труд, связывающий и руки и ноги. Но не забывайте также, что без семьи человек редко находит смысл своего существования.</p></div><!--#section-->
+<div id="left">
+	<div class="module">
+	<header>Рубрики</header>
+	<div id="menu2">
+		<ul class="level1"><li><a href="/planirovanie.html"><span>Планирование</span></a></li><li><a href="/beremennost.html"><span>Беременность</span></a></li><li><a href="/rody.html"><span>Роды</span></a></li><li><a href="/rebenok-do-goda.html"><span>Ребенок до года</span></a></li><li><a href="/rebenok-1-3-goda.html"><span>Ребенок 1-3 года</span></a></li><li><a href="/rebenok-3-7-let.html"><span>Ребенок 3-7 лет</span></a></li><li><a href="/shkolniki.html"><span>Школьники</span></a></li><li class="active"><a href="/semja.html"><span>Семья</span></a></li></ul>	</div>
+	</div>
+	<div class="module">
+	<header>Авторизация</header>
+	<div id="auth">
+		
+		<form action="/auth.html" method="post" onsubmit="return checkAuthForm();">
+			<div class="attr">Логин:</div>
+			<div><input type="text" id="auth_login" name="auth_login" value="" /></div>
+			<div class="attr">Пароль:</div>
+			<div><input type="password" id="auth_password" name="auth_password" value="" /></div>
+			<input type="submit" name="auth_form" value="Войти" class="button" />
+		</form>		<div class="auth_actions"><div><a href="/change_pass.html">Забыли пароль?</a></div><div><a href="/remind_login.html">Забыли логин?</a></div><div><a href="/register.html">Регистрация</a></div></div>	</div>
+	</div>
+<!--LiveInternet counter--><script type="text/javascript">
+<!--
+document.write("<"+"a hr"+"ef='ht"+"tp:"+"//w"+"ww.li"+"vei"+"nte"+"rn"+"et."+"r"+"u/click' target=_blank><img src='//counter.yadro.ru/hit?t14.5;r" + escape(document.referrer) + ((typeof(screen)=="undefined")?"":";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?screen.colorDepth:screen.pixelDepth)) + ";u" + escape(document.URL) + ";" + Math.random() + "' border=0 width=88 height=31 alt='' title='LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодня'><\/a>")
+-->
+</script><!--/LiveInternet-->
+<div class="p10"></div>
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-9131319923296193";
+/* detimam.ru - left */
+google_ad_slot = "7646212908";
+google_ad_width = 250;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+
+
+</div><!--#left-->
+<div id="center">
+	<div id="content">
+<h1>Семья</h1>
+
+<div id="articles">
+<div class="item">
+	<div class="title"><b><a href="/semja/77-semya-i-ee-osnovy.html">Семья и ее основы</a></b></div>
+	<div class="public_date"><span>Опубликовано:</span>2012-12-27 10:01</div>
+	<div class="category"><span>Категория:</span>
+<a href="/semja.html">Семья</a>	</div>
+	<div class="short_descr"><a href="/images/article/big/77-semya-i-ee-osnovy.jpg" class="main_img" rel="lightbox"><img src="/images/article/small/77-semya-i-ee-osnovy.jpg" alt="Семья и ее основы" title="Семья и ее основы" class="small" /></a><p>Исторически сложилось так, что брак это меняющаяся социальная форма отношений между женщиной и мужчиной. Но семья, как правило, представляет собой очень сложную систему отношений, чем сам брак. Поскольку семья в дальнейшем должна объединить не только супругов, но и детей, а также других родственников.</p></div>
+	<div class="more"><a href="/semja/77-semya-i-ee-osnovy.html">Подробнее</a></div>
+	<div class="comment_nums"><span>Комментариев:</span>1</div>
+	<div class="author"><span>Автор:</span><a href="/user/11">anna-2012</a></div>
+</div>
+<div class="item">
+	<div class="title"><b><a href="/semja/76-kak-spravitsya-s-revnostyu-muzha.html">Как справиться с ревностью мужа?</a></b></div>
+	<div class="public_date"><span>Опубликовано:</span>2012-12-26 09:20</div>
+	<div class="category"><span>Категория:</span>
+<a href="/semja.html">Семья</a>	</div>
+	<div class="short_descr"><a href="/images/article/big/76-kak-spravitsya-s-revnostyu-muzha.jpg" class="main_img" rel="lightbox"><img src="/images/article/small/76-kak-spravitsya-s-revnostyu-muzha.jpg" alt="Как справиться с ревностью мужа?" title="Как справиться с ревностью мужа?" class="small" /></a><p>Наверняка, любой женщине хотя бы раз доводилось испытать на себе <strong>ревность</strong> своего мужчины. И порой это бывает даже приятно знать, что вами дорожат, но только в пределах разумного. А бывает, что ревность переходит нормальные границы и становиться манией, с которой необходимо бороться.</p></div>
+	<div class="more"><a href="/semja/76-kak-spravitsya-s-revnostyu-muzha.html">Подробнее</a></div>
+	<div class="comment_nums"><span>Комментариев:</span>1</div>
+	<div class="author"><span>Автор:</span><a href="/user/17">dashe4ka</a></div>
+</div>
+<div class="item">
+	<div class="title"><b><a href="/semja/66-otnosheniya-posle-razvoda.html">Отношения после развода</a></b></div>
+	<div class="public_date"><span>Опубликовано:</span>2012-12-17 15:49</div>
+	<div class="category"><span>Категория:</span>
+<a href="/semja.html">Семья</a>	</div>
+	<div class="short_descr"><a href="/images/article/big/66-otnosheniya-posle-razvoda.jpg" class="main_img" rel="lightbox"><img src="/images/article/small/66-otnosheniya-posle-razvoda.jpg" alt="Отношения после развода" title="Отношения после развода" class="small" /></a><p>Чаще всего после расставания очень тяжело сохранить нормальные отношения после развода с мужем. И особенно трудно, если ваш <strong>мужчина ушел к другой</strong>. По своей натуре женщины очень ранимые и чувственные, а потому и расставание они переживают гораздо сложнее, нежели мужчины.</p></div>
+	<div class="more"><a href="/semja/66-otnosheniya-posle-razvoda.html">Подробнее</a></div>
+	<div class="comment_nums"><span>Комментариев:</span>0</div>
+	<div class="author"><span>Автор:</span><a href="/user/17">dashe4ka</a></div>
+</div>
+<div class="item">
+	<div class="title"><b><a href="/semja/64-chto-delat-esli-muzh-pet.html">Что делать, если муж пьет?</a></b></div>
+	<div class="public_date"><span>Опубликовано:</span>2012-12-16 21:55</div>
+	<div class="category"><span>Категория:</span>
+<a href="/semja.html">Семья</a>	</div>
+	<div class="short_descr"><a href="/images/article/big/64-chto-delat-esli-muzh-pet.jpg" class="main_img" rel="lightbox"><img src="/images/article/small/64-chto-delat-esli-muzh-pet.jpg" alt="Что делать, если муж пьет?" title="Что делать, если муж пьет?" class="small" /></a><p>До сегодняшнего дня проблема пьянства остается актуальной и нерешенной. Отцы во многих семьях все еще пьют, а их дети и жены продолжают страдать. Очень распространены сейчас рекламы о здоровом образе жизни, которые показывают по всем каналам. Но в большинстве, кроме ухмылки они ничего не могут вызвать.</p></div>
+	<div class="more"><a href="/semja/64-chto-delat-esli-muzh-pet.html">Подробнее</a></div>
+	<div class="comment_nums"><span>Комментариев:</span>4</div>
+	<div class="author"><span>Автор:</span><a href="/user/17">dashe4ka</a></div>
+</div>
+<div class="item">
+	<div class="title"><b><a href="/semja/63-esli-muzh-trudogolik.html">Если муж трудоголик</a></b></div>
+	<div class="public_date"><span>Опубликовано:</span>2012-12-16 14:39</div>
+	<div class="category"><span>Категория:</span>
+<a href="/semja.html">Семья</a>	</div>
+	<div class="short_descr"><a href="/images/article/big/63-esli-muzh-trudogolik.jpg" class="main_img" rel="lightbox"><img src="/images/article/small/63-esli-muzh-trudogolik.jpg" alt="Если муж трудоголик" title="Если муж трудоголик" class="small" /></a><p>Каждая девушка мечтает видеть рядом собой мужчину, за которым она будет словно за каменной стеной. И, разумеется, очень важное значение имеет способность зарабатывать деньги, такие, чтобы нельзя было себе ни в чем отказывать. Но вначале не все девушки имеют представление о том, откуда берутся такие деньги. Как правило, много денег у тех мужчин, которые прилагают большие усилия.</p></div>
+	<div class="more"><a href="/semja/63-esli-muzh-trudogolik.html">Подробнее</a></div>
+	<div class="comment_nums"><span>Комментариев:</span>1</div>
+	<div class="author"><span>Автор:</span><a href="/user/17">dashe4ka</a></div>
+</div>
+</div>
+
+<div class="pagination">
+Страницы: <a href="/semja.html?page=2" class="page_prev">< Предыдущая</a><a href="/semja.html">1</a> <a href="/semja.html?page=2">2</a> <b>3</b> <a href="/semja.html?page=4">4</a> <a href="/semja.html?page=5">5</a> <a href="/semja.html?page=4" class="page_next">Следующая ></a></div>	</div>
+</div>
+<br clear="both"/>
+<div id="block-right">
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-9131319923296193";
+/* detimam.ru - bottom */
+google_ad_slot = "9122946102";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+</div>
+</div><!--#wrapper2-->
+
+<div id="footer">
+	<div id="footer2">
+		<div class="wrap">
+			<div class="f1">2012-2016 © «Дети мам»</div>
+			<div class="f2"><ul class="level1"><li><a href="/"><span>Дети, семья</span></a></li><li><a href="/map.html"><span>Карта сайта</span></a></li><li><a href="/contacts.html"><span>Контакты</span></a></li></ul></div>
+			<div class="f3">E-mail: <span id="f_email">E-mail</span></div>
+		</div>
+	</div>
+</div>
+</div><!--#wrapper1-->
+
+
+
+<!--
+	Total: 0.04714 s
+	  PHP: 0.04299 s
+	MySQL: 0.00415 s, 13
+
+Core	Total: 0.03532 s
+	  PHP: 0.03469 s
+	MySQL: 0.00063 s, 4
+
+Proc	Total: 0.00891 s
+	  PHP: 0.00539 s
+	MySQL: 0.00352 s, 9
+
+Tpl	Total: 0.00289 s
+	  PHP: 0.00289 s
+	MySQL: 0.00000 s, 0
+-->
+</body>
+</html>
