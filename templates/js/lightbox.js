@@ -9,7 +9,7 @@ http://lokeshdhakar.com/projects/lightbox2/
 Licensed under the Creative Commons Attribution 2.5 License - http://creativecommons.org/licenses/by/2.5/
 - free for use in both personal and commercial projects
 - attribution requires leaving author name, author link, and the license info intact
-	
+
 Thanks
 - Scott Upton(uptonic.com), Peter-Paul Koch(quirksmode.com), and Thomas Fuchs(mir.aculo.us) for ideas, libs, and snippets.
 - Artemy Tregubenko (arty.name) for cleanup and help in updating to latest proto-aculous in v2.05.
@@ -40,12 +40,12 @@ options = new LightboxOptions
 lightbox = new Lightbox options
 */
 
-(function() {
+( function() {
   var $, Lightbox, LightboxOptions;
 
   $ = jQuery;
 
-  LightboxOptions = (function() {
+  LightboxOptions = ( function() {
 
     function LightboxOptions() {
       this.fileLoadingImage = '/templates/images/loading_big.gif';
@@ -58,9 +58,9 @@ lightbox = new Lightbox options
 
     return LightboxOptions;
 
-  })();
+  } )();
 
-  Lightbox = (function() {
+  Lightbox = ( function() {
 
     function Lightbox(options) {
       this.options = options;
@@ -241,7 +241,7 @@ lightbox = new Lightbox options
           height: newHeight
         }, this.options.resizeDuration, 'swing');
       }
-      setTimeout(function() {
+      setTimeout( function() {
         $lightbox.find('.lb-dataContainer').width(newWidth);
         $lightbox.find('.lb-prevLink').height(newHeight);
         $lightbox.find('.lb-nextLink').height(newHeight);
@@ -340,9 +340,9 @@ lightbox = new Lightbox options
 
     return Lightbox;
 
-  })();
+  } )();
 
-  $(function() {
+  $( function() {
     var lightbox, options;
     options = new LightboxOptions;
     return lightbox = new Lightbox(options);
